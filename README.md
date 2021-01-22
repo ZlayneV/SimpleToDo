@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 - I had trouble with mostly the coding part, just trying to understand the code.
 - I had a few problems trying to translate mac instructions to windows. 
-- i had trouble with constraints and some layout features during the designing portion.
+- I had trouble with constraints and some layout features during the designing portion.
 
 ## License
 
