@@ -34,12 +34,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I had trouble with mostly the coding part, just trying to understand the code.
+- I had a few problems trying to translate mac instructions to windows. 
+- i had trouble with constraints and some layout features during the designing portion.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Zackary Volf]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed uder the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
